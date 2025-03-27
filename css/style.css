@@ -138,9 +138,9 @@ h3 {
 }
 
 .decor_hero_video {
-  width: 45%;
+  width: 33%;
   bottom: 14.5vh;
-  right: 0;
+  right: 80px;
   overflow: hidden;
   z-index: 0;
 }
